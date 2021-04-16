@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584103253900",
+    "firebase_url": "https://reus-verileri.firebaseio.com",
+    "project_id": "reus-verileri",
+    "storage_bucket": "reus-verileri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584103253900:android:e063b9b4d9e84d9e44e8a9",
+        "android_client_info": {
+          "package_name": "com.wcrop.reus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584103253900-brdu6hlo9d8pknld51ani20ulq803uq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGD0zDhMwsu9E9UL8qrNwBLMOn6TSdp9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584103253900-brdu6hlo9d8pknld51ani20ulq803uq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
